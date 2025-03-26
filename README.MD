@@ -27,8 +27,8 @@ Este repositório contém exemplos práticos de como construir e implementar age
 
 ```bash
 # Clone o repositório
-git clone https://github.com/joaooliveira10/agentes-ia-langchain.git
-cd agentes-ia-langchain
+git clone https://github.com/joaooliveira10/Agentes-de-IA-com-LangChain.git
+cd Agentes-de-IA-com-LangChain
 
 # Crie um ambiente virtual
 python -m venv venv
